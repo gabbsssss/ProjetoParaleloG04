@@ -179,8 +179,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -573046905
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 7d309b915f3b0dd49b69241ab460a343, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -227,7 +227,7 @@ MonoBehaviour:
   tempoDeDisparo: 0.3
   podeDisparar: 0
   possoDarDisparoTriplo: 0
-  disparoTriplo: {fileID: 0}
+  disparoTriplo: {fileID: 7353627873009076165, guid: 738721f4145cfc04ab51c69be298c45d, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -339,7 +339,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.13, y: -0.08, z: -10}
+  m_LocalPosition: {x: 0.3, y: -0.14, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -377,8 +377,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade: 11
-  reposicao: 17.65
-  posicaoInicial: {x: 0, y: 0, z: 0}
+  reposicao: 17.5
+  posicaoInicial: {x: -0.6, y: 0, z: 0}
 --- !u!212 &1702852704
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -439,8 +439,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1702852702}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.1143, y: -0.0806, z: 0}
-  m_LocalScale: {x: 2.4549, y: 2.4549, z: 2.4549}
+  m_LocalPosition: {x: 0.33, y: -0.15, z: 0}
+  m_LocalScale: {x: 2.4549, y: 2.4848192, z: 2.4549}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1947961078}

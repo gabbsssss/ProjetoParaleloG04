@@ -7,7 +7,7 @@ public class BackGround : MonoBehaviour
     // Definição das variaveis
     // teste github
     public float velocidade = 11.0f;
-    public float reposicao = 17.65f;
+    public float reposicao = 17.5f;
     public Vector3 posicaoInicial;
     // Start is called before the first frame update
     void Start()

@@ -44,7 +44,7 @@ public class Player : MonoBehaviour
 
                 } else {
 
-                      Instantiate(pfLaser, transform.position + new Vector3(2.1f,0.2f,0),Quaternion.identity);
+                      Instantiate(pfLaser, transform.position + new Vector3(2.1f, 0.2f,0),Quaternion.identity);
                 }
                 
                  podeDisparar = Time.time + tempoDeDisparo ;
